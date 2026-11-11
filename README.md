@@ -6,7 +6,7 @@ A dark boss-rush game that runs in your browser. You are a knight taken from a b
 
 ## Play
 
-Open `index.html` in a browser, or play online at: _add your GitHub Pages link here_
+Open `index.html` in a browser, or play online at: https://somanly-dev.github.io/Where-the-Fallen-Kneel/
 
 There is nothing to install and no build step. Saves are kept in your browser, so they stay on the device and browser you play on.
 
